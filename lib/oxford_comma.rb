@@ -7,4 +7,5 @@ def oxford_comma(array)
       arr << element.join(", ")
     end
   end
+  arr
 end
